@@ -38,8 +38,8 @@ finally the project run with:
 
 open your browser in: 
 
-`GET localhost:8000/`
-`POST localhost:8000/create`
-`GET localhost:8000/read/<int:id>`
-`PUT localhost:8000/update/<int:id>`
+`GET localhost:8000/`\
+`POST localhost:8000/create`\
+`GET localhost:8000/read/<int:id>`\
+`PUT localhost:8000/update/<int:id>`\
 `DELETE localhost:8000/delete/<int:id>`
